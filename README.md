@@ -1,9 +1,5 @@
 # 👋 Welcome to My Profile!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=a2d2ff&center=true&vCenter=true&width=600&lines=Hello!+I'm+M.H.Quang;Passionate+Front-end+Developer;Aspiring+BackEnd+ FrontEnd+Engineer;Exploring+ASP.NET+and+Backend+Technologies" alt="Typing SVG" />
-</p>
-
 I have a deep passion for **Front-end Development** and love crafting engaging user experiences with **React** and **Next.js**. At the same time, I'm expanding my knowledge in **Back-end Development**, exploring **ASP.NET** and **database management** to become a more well-rounded developer.
 
 🚀 I’m currently working on various web development projects, including **e-commerce platforms** and **warehouse management systems**.
